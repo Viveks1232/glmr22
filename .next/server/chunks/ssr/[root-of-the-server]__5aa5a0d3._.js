@@ -1,3 +1,0 @@
-module.exports=[38417,a=>{a.v({className:"outfit_a2d926b3-module__lzWCoa__className"})},33290,a=>{"use strict";var b=a.i(7997),c=a.i(38417);let d={className:c.default.className,style:{fontFamily:"'Outfit', 'Outfit Fallback'",fontStyle:"normal"}};function e({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{className:d.className,children:a})})}null!=c.default.variable&&(d.variable=c.default.variable),a.s(["default",()=>e,"metadata",0,{title:"GLMR Technologies",description:"Digital Marketing & IT Solutions"}],33290)}];
-
-//# sourceMappingURL=%5Broot-of-the-server%5D__5aa5a0d3._.js.map
